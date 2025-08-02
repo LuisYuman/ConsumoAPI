@@ -36,11 +36,11 @@ Consumo-API/
 
 1. Clona el repositorio:
    ```bash
-   git clone <url-de-tu-repositorio>
-   cd consumo-api
+   git clone https://github.com/LuisYuman/ConsumoAPI
+   cd Consumo-API
 2. Regístrate y suscríbete a la API en RapidAPI:
 
-    Busca TheCocktailDB en https://rapidapi.com
+    Busca The Cocktail DB en https://rapidapi.com
 
     Suscríbete al plan gratuito.
 
