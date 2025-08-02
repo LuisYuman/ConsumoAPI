@@ -13,10 +13,12 @@ Este proyecto muestra cómo:
 - Aplicar estilo personalizado con CSS.
 
 ## 📁 Estructura del proyecto
-/consumo-api
-├── /public
-│ ├── /css/bootstrap.min.css
-│ └── /js/bootstrap.bundle.min.js
+Consumo-API/
+├── public/
+│   ├── css/
+│   │   └── bootstrap.min.css
+│   ├── js/
+│   │   └── bootstrap.bundle.min.js
 ├── index.html
 ├── style.css
 └── script.js
