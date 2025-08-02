@@ -14,13 +14,21 @@ Este proyecto muestra cómo:
 
 ## 📁 Estructura del proyecto
 Consumo-API/
+
 ├── public/
+
 │   ├── css/
+
 │   │   └── bootstrap.min.css
+
 │   ├── js/
+
 │   │   └── bootstrap.bundle.min.js
+
 ├── index.html
+
 ├── style.css
+
 └── script.js
 
 
